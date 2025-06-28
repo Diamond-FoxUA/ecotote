@@ -1,0 +1,16 @@
+.about {
+  min-width: 320px;
+  padding: 64px 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(/src/images/about/bg-mobile@-min.jpg);
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: 0 auto;
+}
+.about-container {
+  width: 228px;
+  display: block;
+  align-items: center;
+}
