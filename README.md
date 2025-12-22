@@ -60,9 +60,3 @@ The project was developed as part of a **team project**, focusing on collaborati
 
 👤 Author: **Dmytro Farbun**<br>
 Role:  Team Lead & Frontend Developer
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
