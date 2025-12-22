@@ -55,7 +55,8 @@ The project was developed as part of a **team project**, focusing on collaborati
 ## 📫 Links
 
 🌐 Live Demo: https://diamond-foxua.github.io/ecotote/  
-🔗 Repository: https://github.com/Diamond-FoxUA/ecotote  
+🔗 Repository: https://github.com/Diamond-FoxUA/ecotote
+🎨 Figma Design: https://www.figma.com/design/RCf95cRtisUxC8gsNFAFAp/EcoTote?node-id=5999-10563&p=f&t=jAaHp4KAVygT65Js-0
 
 👤 Author: **Dmytro Farbun**<br>
 Role:  Team Lead & Frontend Developer
